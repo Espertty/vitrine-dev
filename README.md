@@ -1,13 +1,13 @@
-# Nome do meu projeto
+# Filmes Populares
 
-Rápida descrição do objetivo de fazer esse projeto
+Aprimorar Conhecimentos de GitHub
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Filmes Populares**
+| :label: Tecnologias | HTML, CSS
 | :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | https://espertty.github.io/7daysofcode-main/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
